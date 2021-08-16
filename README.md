@@ -1,4 +1,4 @@
-##The Gates Of Shell
+### The Gates Of Shell
 
 The gates of shell is an ALX that helps understand the advanced
 concepts behind the shell program include process, system call, bit manipulation, file managment, error handling ...
@@ -24,8 +24,8 @@ concepts behind the shell program include process, system call, bit manipulation
 * Display a prompt and wait for the user to type a command. A command line always ends with a new line.
 * If an executable cannot be found, print an error message and display the prompt again.
 * Handle errors.
-* Hndling the “end of file” condition (Ctrl+D)
-* Hanling the command line with arguments
+* Handling the “end of file” condition (Ctrl+D)
+* Handling the command line with arguments
 * Handle the PATH
 * Support the exit features and the exit status
 * Handle the Ctrl-C to not terminate the shell
