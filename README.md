@@ -19,10 +19,6 @@ concepts behind the shell program include process, system call, bit manipulation
 * How to suspend the execution of a process until one of its children terminates
 * What is `EOF` / “end-of-file”?
 
-## Getting HSH
-In order to install the shell and get benefits of it's features you need to clone the current project, and compile it.
-You need to make sure that this shell tested and garantees work based on `gcc-4.8` and the `C90` standard.
-
 ## Features
 * Display a prompt and wait for the user to type a command. A command line always ends with a new line.
 * If an executable cannot be found, print an error message and display the prompt again.
