@@ -111,4 +111,8 @@ int is_path_form(sh_t *data);
 void is_short_form(sh_t *data);
 int is_builtin(sh_t *data);
 
+/* env1.c */
+char *_getenv(const char *name, char **_environ);
+int _env(data_shell *datash);
+
 #endif /* SHELL_H */
